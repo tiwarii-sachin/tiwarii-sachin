@@ -1,19 +1,17 @@
 <div align="center">
 
-# 👋 Hi, I'm <span style="color:#00BFFF">Sachin Tiwari</span>
+# 👋 Hi, I'm Sachin Tiwari
 
 ### ☁️ Cloud & DevOps Engineer in Progress
 
 **Build • Automate • Deploy • Scale • Monitor**
 
-<p>
-  <a href="https://github.com/tiwarii-sachin">
-    <img src="https://img.shields.io/badge/GitHub-tiwarii--sachin-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://linkedin.com/in/sachin-tiwari-2">
-    <img src="https://img.shields.io/badge/LinkedIn-Sachin%20Tiwari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
+<a href="https://github.com/tiwarii-sachin">
+<img src="https://img.shields.io/badge/GitHub-tiwarii--sachin-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="https://linkedin.com/in/sachin-tiwari-2">
+<img src="https://img.shields.io/badge/LinkedIn-Sachin%20Tiwari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 🎓 **B.Tech CSE — Lovely Professional University**
 📅 **Graduating 2027**
@@ -22,9 +20,33 @@
 
 ---
 
+# 👨‍💻 About Me
+
+I'm a Computer Science & Engineering student focused on building practical skills in **Cloud Computing and DevOps**.
+
+My focus is on containerization, Kubernetes, CI/CD automation, Infrastructure as Code, cloud deployment, security scanning, GitOps, and monitoring.
+
+```text
+Cloud
+  ↓
+Docker
+  ↓
+Kubernetes
+  ↓
+CI/CD
+  ↓
+Terraform
+  ↓
+GitOps
+  ↓
+Monitoring
+```
+
+---
+
 # 🛠️ Tech Stack & Skills
 
-## ☁️ Cloud Platforms
+## ☁️ Cloud
 
 <p>
 <img src="https://skillicons.dev/icons?i=aws,azure" height="55">
@@ -56,10 +78,6 @@
 
 ## 🔐 Security & Monitoring
 
-<p>
-<img src="https://skillicons.dev/icons?i=prometheus,grafana" height="55">
-</p>
-
 **Trivy • SonarQube • Prometheus • Grafana**
 
 ---
@@ -74,9 +92,9 @@
 
 ---
 
-# 🚀 Projects
+# 🚀 Featured Projects
 
-## ☸️ 01 — Kubernetes HPA Autoscaling
+## ☸️ [Kubernetes HPA Autoscaling](https://github.com/tiwarii-sachin/kubernetes-hpa-project)
 
 **Containerized Flask Application + Kubernetes + Horizontal Pod Autoscaler**
 
@@ -97,9 +115,11 @@ A Kubernetes project demonstrating automatic application scaling based on CPU ut
 * 🔼 Maximum replicas: **10**
 * 🧪 Tested scaling under increased workload
 
+**👉 [View Source Code & Project](https://github.com/tiwarii-sachin/kubernetes-hpa-project)**
+
 ---
 
-## 🐳 02 — Flask Application — Docker & Kubernetes
+## 🐳 [Flask Application — Docker & Kubernetes](https://github.com/tiwarii-sachin/Flask-app)
 
 A Flask web application deployed using Docker and Kubernetes to practice containerization and orchestration.
 
@@ -109,17 +129,19 @@ A Flask web application deployed using Docker and Kubernetes to practice contain
 
 ### 📌 Implementation
 
-* Dockerized Flask application
+* Docker containerization
 * Kubernetes Deployment
 * Kubernetes Service
 * Container orchestration
-* Application deployment and accessibility
+* Application deployment
+
+**👉 [View Source Code & Project](https://github.com/tiwarii-sachin/Flask-app)**
 
 ---
 
-## 🛒 03 — Depot Store — CI/CD & Containerization
+## 🛒 [Depot Store — CI/CD & Containerization](https://github.com/tiwarii-sachin/depot-store)
 
-A React-based application containerized for production-style deployment using Docker and Nginx.
+A React application containerized for production-style deployment using Docker and Nginx.
 
 ### 🔧 Technologies
 
@@ -152,43 +174,23 @@ Container Registry
 * 🔐 Trivy vulnerability scanning
 * 📦 Docker image management
 
+**👉 [View Source Code & Project](https://github.com/tiwarii-sachin/depot-store)**
+
 ---
 
-## 🦁 04 — Virtual Zoo Website
+## 🌐 [My Portfolio](https://github.com/tiwarii-sachin/my-portfolio)
 
-A full-stack web application developed using React and Node.js with MongoDB.
+Personal portfolio website showcasing projects, skills, and my Cloud & DevOps learning journey.
 
 ### 🔧 Technologies
 
-`React` `Node.js` `MongoDB` `JavaScript`
+`HTML` `CSS` `JavaScript`
 
-### 📌 Focus
-
-* Frontend development
-* Backend APIs
-* Database integration
-* Full-stack application architecture
+**👉 [View Source Code](https://github.com/tiwarii-sachin/my-portfolio)**
 
 ---
 
-## 🤖 05 — Price Tracking Chatbot
-
-A Python-based project combining web scraping, APIs, and NLP concepts for price tracking and chatbot functionality.
-
-### 🔧 Technologies
-
-`Python` `NLP` `APIs` `Web Scraping`
-
-### 📌 Focus
-
-* Web scraping
-* API integration
-* Natural Language Processing
-* Automated price tracking
-
----
-
-## ☁️ 06 — AWS EC2 + Django Application
+# ☁️ AWS EC2 + Django
 
 A cloud deployment project focused on deploying a Django application on an AWS EC2 instance.
 
@@ -200,135 +202,136 @@ A cloud deployment project focused on deploying a Django application on an AWS E
 
 * AWS EC2 deployment
 * Linux server management
-* Django application deployment
-* Cloud-based application hosting
+* Django deployment
+* Cloud application hosting
+
+> 📌 Repository link can be added once the exact GitHub repository name is available.
 
 ---
 
-## 🌐 07 — Personal Portfolio
+# 🦁 Virtual Zoo Website
 
-A personal portfolio website showcasing my projects, skills, and Cloud/DevOps learning journey.
+A full-stack web application built using React, Node.js, and MongoDB.
 
 ### 🔧 Technologies
 
-`HTML` `CSS` `JavaScript`
+`React` `Node.js` `MongoDB` `JavaScript`
+
+### 📌 Focus
+
+* Frontend development
+* Backend APIs
+* Database integration
+* Full-stack architecture
+
+> 📌 Repository link can be added once the exact GitHub repository name is available.
 
 ---
 
-# 🚀 08 — End-to-End Cloud & DevOps Pipeline
+# 🤖 Price Tracking Chatbot
+
+A Python project combining web scraping, APIs, and NLP concepts for price tracking and chatbot functionality.
+
+### 🔧 Technologies
+
+`Python` `NLP` `APIs` `Web Scraping`
+
+### 📌 Focus
+
+* Web scraping
+* API integration
+* NLP
+* Automated price tracking
+
+> 📌 Repository link can be added once the exact GitHub repository name is available.
+
+---
+
+# 🚀 End-to-End Cloud & DevOps Project
 
 > 🚧 **Currently building and documenting this project step-by-step.**
-
-A production-style DevOps workflow designed to automate application delivery from source code to Kubernetes deployment and monitoring.
 
 ### 🔄 Architecture
 
 ```text
-                    ┌──────────────┐
-                    │    GitHub    │
-                    └──────┬───────┘
-                           ↓
-                  ┌─────────────────┐
-                  │ GitHub Actions  │
-                  └────────┬────────┘
-                           ↓
-             ┌──────────────────────────┐
-             │ Quality & Security       │
-             │ SonarQube + Trivy        │
-             └────────────┬─────────────┘
-                          ↓
-                    ┌───────────┐
-                    │  Docker   │
-                    └─────┬─────┘
-                          ↓
-                    ┌───────────┐
-                    │  AWS ECR  │
-                    └─────┬─────┘
-                          ↓
-                    ┌───────────┐
-                    │ Terraform │
-                    └─────┬─────┘
-                          ↓
-                    ┌───────────┐
-                    │  AWS EKS  │
-                    └─────┬─────┘
-                          ↓
-                    ┌───────────┐
-                    │Kubernetes │
-                    └─────┬─────┘
-                          ↓
-                    ┌───────────┐
-                    │  Argo CD  │
-                    └─────┬─────┘
-                          ↓
-             ┌─────────────────────────┐
-             │ Prometheus + Grafana    │
-             └─────────────────────────┘
+GitHub
+   ↓
+GitHub Actions
+   ↓
+SonarQube + Trivy
+   ↓
+Docker
+   ↓
+AWS ECR
+   ↓
+Terraform
+   ↓
+AWS EKS
+   ↓
+Kubernetes
+   ↓
+Argo CD
+   ↓
+Prometheus + Grafana
 ```
 
 ### 🔧 Technologies
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions" height="45">
-</p>
+`AWS` `ECR` `EKS` `Terraform` `Docker`
 
-`AWS ECR` `AWS EKS` `SonarQube` `Trivy` `Argo CD` `Prometheus` `Grafana`
+`Kubernetes` `GitHub Actions` `SonarQube` `Trivy`
 
-### 🎯 DevOps Flow
+`Argo CD` `Prometheus` `Grafana`
 
-**Code → CI/CD → Security → Container → Registry → Infrastructure → Kubernetes → GitOps → Monitoring**
+**Code repository will be linked here once the project repository is created.**
 
 ---
 
 # 📜 Certifications & Learning
 
-## ☁️ Cloud
+### ☁️ Cloud
 
 * 🟠 **Oracle Cloud Infrastructure 2025 Certified Foundations Associate**
 * 🟠 **AWS Cloud Computing / Cloud Practitioner Learning**
 * 🔵 **IBM SkillsBuild — Cloud Computing Fundamentals**
 * 🔵 **IBM SkillsBuild — Introduction to Cloud**
 
-## 🌐 Networking
+### 🌐 Networking
 
 * 🔵 **Google — Bits and Bytes of Computer Networking**
 * 🟢 **NPTEL — Social Networks**
 
-## 💻 Development
+### 💻 Development
 
 * 🟣 **Full Stack Development — React & Node.js**
 
 ---
 
-# 📚 Currently Learning
+# 🎯 Currently Learning
 
 ```text
-                 AWS
-                  │
-          ┌───────┼───────┐
-          ↓       ↓       ↓
-         EC2      S3      IAM
-          │
-          ↓
-       Terraform
-          │
-          ↓
-        Docker
-          │
-          ↓
-      Kubernetes
-          │
-          ↓
-        CI/CD
-          │
-          ↓
-       GitOps
-          │
-          ↓
- Monitoring & Observability
+AWS
+ │
+ ↓
+Terraform
+ │
+ ↓
+Docker
+ │
+ ↓
+Kubernetes
+ │
+ ↓
+CI/CD
+ │
+ ↓
+GitOps
+ │
+ ↓
+Monitoring & Observability
 ```
 
-### 🎯 Current Focus
+### Current Focus
 
 `AWS` `Terraform` `Docker` `Kubernetes` `CI/CD` `GitOps` `Monitoring`
 
@@ -364,28 +367,6 @@ A production-style DevOps workflow designed to automate application delivery fro
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tiwarii-sachin&theme=tokyonight&hide_border=true">
 
 </div>
-
----
-
-# 🎯 What I'm Building
-
-```text
-☁️ Cloud Infrastructure
-        ↓
-🐳 Containerized Applications
-        ↓
-🔄 Automated CI/CD
-        ↓
-☸️ Kubernetes Deployments
-        ↓
-🏗️ Infrastructure as Code
-        ↓
-🔐 Security Scanning
-        ↓
-🔀 GitOps
-        ↓
-📊 Monitoring & Observability
-```
 
 ---
 
